@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "K1EKXFfh3a7UHyy8IztgvWsnrUCfIEPJQcBS3IfSfkWdptYRE1G7b45dmIn8JIuGf+/Ls3R2Vzrk/6VyLX/p2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\IOMS\\arvin-siozon\\teatrack\\TeaTrack\\TeaTrack.UI\\TeaTrack.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
